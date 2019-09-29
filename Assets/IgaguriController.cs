@@ -17,7 +17,7 @@ public class IgaguriController : MonoBehaviour
 
     void Start()
     {
-        Shoot(new Vector3(0, 200, 2000));
+        //Shoot(new Vector3(0, 200, 2000));
     }
 
     
